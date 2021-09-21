@@ -5,10 +5,9 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: DEVOPS AUTOMATION
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+      Automation in DevOps ultimately encapsulates everything right from building, deploying and monitoring.
     actions:
       - label: Learn More
         url: /features

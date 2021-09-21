@@ -51,11 +51,11 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "Akrantha",
                 "nav_links": [
                     {
-                        "label": "About Us",
-                        "url": "/about",
+                        "label": "Company",
+                        "url": "/company",
                         "style": "link"
                     },
                     {
