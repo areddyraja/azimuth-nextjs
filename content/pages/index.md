@@ -103,17 +103,17 @@ sections:
     background: gray
     title: Latest Posts
 seo:
-  title: Stackbit Azimuth Theme
-  description: The preview of the Azimuth theme
+  title: Akrantha | your partner in product development 
+  description: your partner in product development 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: Akrantha
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: your partner in product development 
       keyName: property
     - name: 'og:image'
       value: images/hero.png
@@ -122,9 +122,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Akrantha
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: your partner in product development 
     - name: 'twitter:image'
       value: images/hero.png
       relativeUrl: true

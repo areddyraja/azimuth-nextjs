@@ -14,23 +14,28 @@
                 "style": "link"
             },
             {
-                "label": "Features",
+                "label": "Company",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "Services",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Portfolio",
+                "url": "/portfolio",
                 "style": "link"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
+                "label": "Careers",
+                "url": "/careers",
+                "style": "link"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact-us",
                 "style": "primary"
             }
         ]
@@ -42,7 +47,7 @@
                 "image": "images/logo-alt.svg",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Stackbit theme demo"
+                "content": "Your partner in product development"
             },
             {
                 "type": "footer_nav",
@@ -131,6 +136,6 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+        "content": "&copy; Akrantha. All rights reserved."
     }
 }
