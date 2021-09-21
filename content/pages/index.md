@@ -5,9 +5,9 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: DEVOPS AUTOMATION
+    title: Your Partner in Product Development
     content: >-
-      Automation in DevOps ultimately encapsulates everything right from building, deploying and monitoring.
+      Build your MVP product in a matter of weeks
     actions:
       - label: Learn More
         url: /features
@@ -15,18 +15,19 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Product Development 
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Build exended and dedeicated teams for aceelrated product development and time to market
     features:
-      - title: The Best Feature of Your Services
+      - title: Early MVP Jump Start
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Time-to-market for software is shrinking
+          
+
+          The cloud and SaaS delivery model has dramatically reduced the development time and made it fast, flexible, and cheap. With this approach, you can reach the market quickly with products that your customers would want to use.
+        
         actions:
           - label: Learn More
             url: /features
@@ -34,13 +35,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Product Acceleration
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Continuous improvement drives success in the agile world
+
+
+          As your product ecosystem grows, there will be a constant need for product scaling in terms of adding more features or trimming down certain functionalities to cope up with the business demands. Coping up with rapid growth can be volatile and relentless.
         actions:
           - label: Learn More
             url: /features
@@ -48,13 +50,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of Your Services
+      - title: Reorganize for faster product delivery
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Devops automation
+
+
+          Traditionally, new software release meant shutting down business operations at least for few hours. Today businesses are constantly trying to innovate and differentiate themselves. For this, they want to deploy newest version of their service to their users frequently, that too without disrupting their 24/7 availability.
         actions:
           - label: Learn More
             url: /features
@@ -67,28 +70,23 @@ sections:
     background: white
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+      Some of the work
     reviews:
-      - author: Eric Widget
+      - author: Amit
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Parsley Montana
+          Akrantha helped us in building a Net Connect for monitoring and upgrading OS of a setup box.
+      - author: Jayadev
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Jonquil Von Haggerston
+          Akrantha helped us in buidling a MVP product that enabled to test the customers and investment story
+      - author: Srinivas
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Akrantha helped us in previous years voting pattern, which helped in deciding the electrion startegy 
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!

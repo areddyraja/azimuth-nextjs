@@ -4,11 +4,10 @@ sections:
   - section_id: contact
     type: section_contact
     background: gray
-    title: Contact
+    title: LET’S WORK TOGETHER!
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      GET IN TOUCH
+ 
     form_id: contactForm
     form_fields:
       - input_type: text
@@ -24,9 +23,11 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Early Jump start
+          - Extended Teams
+          - Dedicated Lab
+          - Consulting
+          
       - input_type: textarea
         name: message
         label: Message
