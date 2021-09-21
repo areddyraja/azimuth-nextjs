@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services | Akrantha
 sections:
   - section_id: features
     type: section_content
@@ -38,7 +38,7 @@ sections:
         url: '#'
         style: secondary
 seo:
-  title: Features
+  title: Services | Akrantha
   description: This is the features page
   extra:
     - name: 'og:type'

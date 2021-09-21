@@ -1,36 +1,29 @@
 ---
-title: About Us
+title: Contact Us | Akrantha 
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
-image: images/about.jpg
-image_alt: Team members in a conference room
+image: images/11.jpg
+image_alt: Office desk top view
 seo:
-  title: About Us
-  description: This is the about page
+  title: Contact Us | Akrantha 
+  description: This is the sign up page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Sign Up
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: This is the sign up page
       keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Sign Up
     - name: 'twitter:description'
-      value: This is the about page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+      value: This is the sign up page
 layout: page
 ---
 

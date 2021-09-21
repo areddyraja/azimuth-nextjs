@@ -15,12 +15,12 @@
             },
             {
                 "label": "Company",
-                "url": "/features",
+                "url": "/company",
                 "style": "link"
             },
             {
                 "label": "Services",
-                "url": "/pricing",
+                "url": "/services",
                 "style": "link"
             },
             {
@@ -59,13 +59,18 @@
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
+                        "label": "Services",
                         "url": "/blog",
                         "style": "link"
                     },
                     {
-                        "label": "Sign Up",
+                        "label": "Portfolio",
                         "url": "/signup",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Careers",
+                        "url": "/careers",
                         "style": "link"
                     },
                     {

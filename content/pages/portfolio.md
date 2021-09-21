@@ -1,7 +1,7 @@
 ---
-title: Pricing
+title: Portfolio | Akrantha 
 sections:
-  - section_id: pricing
+  - section_id: Portfolio | Akrantha 
     type: section_pricing
     background: gray
     title: Pricing Plans
