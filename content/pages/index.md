@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Product Development 
     subtitle: >-
-      Build exended and dedeicated teams for aceelrated product development and time to market
+      Build extended and dedicated teams for accelerated product development and time to market
     features:
       - title: Early MVP Jump Start
         image: images/feature1.png
