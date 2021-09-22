@@ -44,7 +44,7 @@ Finding a reliable technology partner is not easy. It demands an ability to quic
 * Technology Upgrade
 
 ### Product Lifecycle Management
-WWith our specliaized skills and ability to manage and build on something that is already in use, we offer to refresh and offer new features to your existing applications.
+With our specliaized skills and ability to manage and build on something that is already in use, we offer to refresh and offer new features to your existing applications.
 
 ### Product Extension
 Akrantha offers well orchestrated services from existing monolithic applications with APIs.
