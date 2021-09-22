@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio",
-                "style": "link"
-            },
-            {
                 "label": "Careers",
                 "url": "/careers",
                 "style": "link"

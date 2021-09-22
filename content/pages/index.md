@@ -10,8 +10,8 @@ sections:
       Build your MVP product in a matter of weeks
     actions:
       - label: Learn More
-        url: /features
-        style: primary
+        url: /partner
+        style: primarys
   - section_id: features
     type: section_features
     background: gray
@@ -30,38 +30,36 @@ sections:
         
         actions:
           - label: Learn More
-            url: /features
+            url: /jumpstart
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
       - title: Product Acceleration
-        image: images/feature2.png
+        image: images/feature3.png
         image_alt: App users welcoming a new member
         content: >-
           Continuous improvement drives success in the agile world
 
-
           As your product ecosystem grows, there will be a constant need for product scaling in terms of adding more features or trimming down certain functionalities to cope up with the business demands. Coping up with rapid growth can be volatile and relentless.
         actions:
           - label: Learn More
-            url: /features
+            url: /productacceleration
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
       
-      - title: Reorganize for faster product delivery
-        image: images/feature3.png
+      - title: Devops automation
+        image: images/feature2.png
         image_alt: App user profile preview
         content: >-
-          Devops automation
-
+          Reorganize for faster product delivery
 
           Traditionally, new software release meant shutting down business operations at least for few hours. Today businesses are constantly trying to innovate and differentiate themselves. For this, they want to deploy newest version of their service to their users frequently, that too without disrupting their 24/7 availability.
         actions:
           - label: Learn More
-            url: /features
+            url: /devopsauto
             style: secondary
             has_icon: true
             icon: arrow-right
