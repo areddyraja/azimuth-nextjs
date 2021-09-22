@@ -60,12 +60,12 @@
                     },
                     {
                         "label": "Services",
-                        "url": "/blog",
+                        "url": "/services",
                         "style": "link"
                     },
                     {
                         "label": "Portfolio",
-                        "url": "/signup",
+                        "url": "/portfolio",
                         "style": "link"
                     },
                     {
