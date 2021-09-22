@@ -91,16 +91,16 @@ sections:
           
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: We are hiring
+    subtitle: We hire people who have a passion for collaboration and delivering incredible products and solutions to world-class companies. We are looking for innovative, passionate people who take great pride in their work. Apply today
     actions:
-      - label: Get Started
-        url: /signup
+      - label: Open Positions
+        url: /careers
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
+  # - section_id: recent-posts
+  #   type: section_posts
+  #   background: gray
+  #   title: Latest Posts
 seo:
   title: Akrantha | your partner in product development 
   description: your partner in product development 
