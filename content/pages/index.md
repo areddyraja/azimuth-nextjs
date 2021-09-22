@@ -50,6 +50,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      
       - title: Reorganize for faster product delivery
         image: images/feature3.png
         image_alt: App user profile preview
@@ -76,17 +77,20 @@ sections:
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
-          Akrantha helped us in building a Net Connect for monitoring and upgrading OS of a setup box.
+          Akrantha helped us in building a Net Connect center for monitoring and upgrading OS of a setup box.
+          Akrantha built the product and got deployed in production in less 3 months. handed over the source and managed it for a year before taking complete ownership
       - author: Jayadev
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
-          Akrantha helped us in buidling a MVP product that enabled to test the customers and investment story
-      - author: Srinivas
+          Akrantha helped us in buidling a moives recommendations products. They helped us with requirements, architecture Their experience helped us take the product to initial customers early
+      - author: Raghav
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Akrantha helped us in previous years voting pattern, which helped in deciding the electrion startegy 
+          Akrantha helped us in quickly providing and building an Android App in Financial education.
+          We were struggling to get this product done due to non avaiability of resourfes. Akrantha made it smooth and provided the confidence
+          
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
