@@ -44,10 +44,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/akrantha2-f-logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "Your partner in product development"
+                "content": "<h4>India</h4>Q2, A2, 7th Floor, Cyber Towers,<br> Hi-tech City, Hyderabad 500081"
             },
             {
                 "type": "footer_nav",
