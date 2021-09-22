@@ -42,7 +42,7 @@
                 "image": "images/akrantha2-f-logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
-                "content": "<h4>India</h4>Q2, A2, 7th Floor, Cyber Towers,<br> Hi-tech City, Hyderabad 500081<br><br>Phone: +91-703-292-6228<br>info@akrantha.com"
+                "content": "<h4>India</h4>Q2, A2, 7th Floor, Cyber Towers,<br> Hi-tech City, Hyderabad 500081<br><br>Phone: +91-703-292-6228<br>mailto: info@akrantha.com"
             },
             {
                 "type": "footer_nav",
@@ -119,18 +119,6 @@
             }
         ],
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Terms of Service",
-                "url": "/terms-of-service",
-                "style": "link"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            }
-        ],
         "content": "&copy; Akrantha. 2021 All rights reserved."
     }
 }
